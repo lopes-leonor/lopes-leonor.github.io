@@ -17,16 +17,19 @@ I was always fascinated by the human brain and how it can inspire better AI, fro
 **Oct 2021 – June 2025**  
 - Research focus: AI-based diagnosis and progression modelling of neurodegenerative disorders
 - Awarded with highest grade; Nominated for Best PhD Thesis Award  
+-------
 
 **Master’s Degree in Medicine (M.D.)**  
 *University of Coimbra, Portugal*  
 **Sep 2014 – Jul 2021**  
 - Completed full clinical training, including final-year rotations across multiple specialties  
+-------
 
 **Minor in Biomedical Engineering**  
 *University of Coimbra, Portugal*  
 **Feb 2018 – Jul 2021**  
 - Completed over 100 ECTS in Mathematics, Algebra, Physics, Programming, Biomechanics, Computational Physiology  
+-------
 
 
 ## Research & Projects
