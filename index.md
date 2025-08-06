@@ -2,24 +2,123 @@
 layout: homepage
 ---
 
-## About Me
+## Profile
 
-I am a Postdoctoral researcher at the University of Bern where I work on Deep Learning models applied to healthcare, using neuroimaging and actigraphy (movement data).
+I am a Postdoctoral Researcher at the University of Bern, working on Deep Learning models applied to healthcare. I focus on applying these methods to neuroimaging and actigraphy (movement data) for disease diagnosis, prediction, and progression modelling.
 
-I hold a Medical Degree and have completed several courses of the Master’s Degree in Biomedical Engineering. I earned a PhD focused on AI for medical imaging in June 2025.
+Due to my interdisciplinary background in medicine and biomedical engineering, I bring extensive scientific and clinical knowledge, as well as strong analytical and technical skills. I also have teaching experience and have led projects and collaborations with industry partners.
 
-## Research Interests
+I was always fascinated by the human brain and how it can inspire better AI, from understanding neural processes to building models that mimic them. My goal is to contribute to AI systems that not only improve medical decision-making but are also transparent, trustworthy, and grounded in both science and real-world impact.
 
-- **Computer Vision:** image recognition, image generation, video captioning
-- **Machine Learning:** meta-learning, incremental learning, transfer learning
+## Education
 
-## News
+**PhD in AI in Medical Imaging**  
+*University of Bern, Switzerland*  
+**Oct 2021 – June 2025**  
+- Research focus: AI-based diagnosis and progression modelling of neurodegenerative disorders
+- Awarded with highest grade; Nominated for Best PhD Thesis Award  
 
-- **[Feb. 2020]** Our paper about incremental learning is accepted to CVPR 2020.
-- **[Feb. 2020]** We will host the ACM Multimedia Asia 2020 conference in Singapore!
-- **[Sept. 2019]** Our paper about few-shot learning is accepted to NeurIPS 2019.
-- **[Mar. 2019]** Our paper about few-shot learning is accepted to CVPR 2019.
+**Master’s Degree in Medicine (M.D.)**  
+*University of Coimbra, Portugal*  
+**Sep 2014 – Jul 2021**  
+- Completed full clinical training, including final-year rotations across multiple specialties  
 
-{% include_relative _includes/publications.md %}
+**Minor in Biomedical Engineering**  
+*University of Coimbra, Portugal*  
+**Feb 2018 – Jul 2021**  
+- Completed over 100 ECTS in Mathematics, Algebra, Physics, Programming, Biomechanics, Computational Physiology  
 
-{% include_relative _includes/services.md %}
+
+## Research & Projects
+
+### AI for Disease Progression in Parkinsonian Disorders
+- Developed and validated AI and statistical models to predict disease progression using PET and SPECT neuroimaging.
+- Built longitudinal prediction models for REM Sleep Behavior Disorder (RBD) conversion to Parkinson’s Disease using regression, linear mixed-effects models, and deep learning architectures (ResNet, Autoencoders, Vision Transformers).
+- Conducted survival analysis combining clinical and imaging data.
+- Participated in spatiotemporal progression modelling in atypical parkinsonism and ALS.
+
+### Medical Imaging Harmonization with Generative Models
+- Applied domain adaptation and generative models (CycleGAN, diffusion models) to harmonize imaging data across sites and modalities, collaborating with Siemens Healthineers to implement AI-driven solutions in clinical settings.
+
+### AI for Wearable Sensor Data
+- Analyzed actigraphy (wearable) time-series data to support early diagnosis and prognosis in neurodegeneration.
+- Applied machine learning and deep learning methods (Random Forest, CNNs, Transformers, foundation models) for disease classification and progression tracking.
+- Evaluated the utility of foundation models trained on actigraphy for detecting RBD and PD.
+
+### Neuroimaging Tool Development
+- Created **SSM-PCA**, an open-source Python toolkit for multivariate analysis of FDG PET scans, advancing feature extraction techniques in neuroimaging.
+
+### Data Integration & Analysis
+- Extracted, curated, and processed longitudinal datasets comprising over 1,000 PET/SPECT scans, wearable time-series records, and structured clinical data from Parkinsonian cohorts.
+- Led multi-modality statistical analyses, including exploration of biomarker associations, disease trajectory modelling, digital twin generation, and model interpretability.
+
+### Interdisciplinary & Industry Collaborations
+- Coordinated collaborations across clinical, data science, and engineering teams.
+- Worked with industrial partners including **Siemens Healthineers**, **Novartis**, and **Veracyte**
+
+
+## Teaching and Communication
+
+- Delivered lectures and tutorials on Large Language Models and Clinical Decision Support Systems to Bachelor’s, Master’s, and PhD students.
+- Contributed to peer-reviewed publications, grant applications, and ethics protocols, and presented research at international scientific conferences.
+
+
+## Key Skills
+
+•	Led data science/machine learning research projects from beginning through completion
+•	Proficiency in Python, R, Matlab and ML libraries (Pytorch, TensorFlow, Keras, Scikit-learn, etc)
+•	Interdisciplinary background in life sciences, medicine, mathematics, statistics, AI
+•	Experience with Big Data (complex and longitudinal clinical datasets), databases, and cloud computing
+•	Knowledge of ML/DL: pretraining, adapting, fine-tunning, XGBoost, CNNs, ResNets, AE, GANs, Transformers.
+•	Implementation of new ML models in clinical research – CycleGANs, Transformers, foundation models
+•	Visualization techniques: Matplotlib, Seaborn, Plotly, ggplot
+
+
+## Publications
+
+### Peer-Reviewed Articles
+
+- **Lopes L**, Lopez-Montes A, Chen Y, et al.  
+  *The Evolution of Artificial Intelligence in Nuclear Medicine.*  
+  *Seminars in Nuclear Medicine*, 2025;55(3):313-327.  
+  [https://doi.org/10.1053/j.semnuclmed.2025.01.006](https://doi.org/10.1053/j.semnuclmed.2025.01.006)
+
+- **Lopes L**, Jiao F, Xue S, et al.  
+  *Dopaminergic PET to SPECT domain adaptation: a cycle GAN translation approach.*  
+  *European Journal of Nuclear Medicine and Molecular Imaging*, 2025; 52(3):851–863.  
+  [https://doi.org/10.1007/s00259-024-06961-x](https://doi.org/10.1007/s00259-024-06961-x)
+
+- **Telli T**, **Lopes L***, Karpinski M, et al.  
+  *Prognostic value of [18F]FDG- and PSMA-PET in patients evaluated for [177Lu]Lu-PSMA therapy of mCRPC.*  
+  *European Journal of Nuclear Medicine and Molecular Imaging*, published online 2025.  
+  [https://doi.org/10.1007/s00259-025-07198-y](https://doi.org/10.1007/s00259-025-07198-y)
+
+- **Lu J**, Clement C, Hong J, Wang M, Li X, et al.  
+  *Improved interpretation of 18F-florzolotau PET in progressive supranuclear palsy using a normalization-free deep-learning classifier.*  
+  *iScience*, 2023; 26(8).  
+  [https://doi.org/10.1016/j.isci.2023.107426](https://doi.org/10.1016/j.isci.2023.107426)
+
+- **Hong J**, Lu J, Liu F, Wang M, Li X, et al.  
+  *Uncovering distinct progression patterns of tau deposition in progressive supranuclear palsy using [18F]Florzolotau PET imaging and subtype/stage inference algorithm.*  
+  *EBioMedicine*, 2023; 97.  
+  [https://doi.org/10.1016/j.ebiom.2023.104835](https://doi.org/10.1016/j.ebiom.2023.104835)
+
+- **Küper AT**, Kersting D, Telli T, Herrmann K, Rominger A, et al.  
+  *PSMA-PET follow-up to assess response in patients not receiving PSMA therapy: Is there value beyond localization of disease?*  
+  *Theranostics*, 2024; 14(9):3623–3633.  
+  [https://doi.org/10.7150/thno.96738](https://doi.org/10.7150/thno.96738)
+
+### Accepted for Publication
+
+- **Handke A***, **Lopes L***, Kesch C, et al.  
+  *Transcriptomic Profiling of the Tumor Immune Microenvironment Reveals Prognostic Markers in mCRPC Patients Treated with LuPSMA Therapy.*  
+  *Accepted in Theranostics*, July 2025.
+
+### In preparation
+
+- **Lopes L**, Xu Q, Lu J, et al.  
+  *Deep Learning-Based Prediction of Isolated REM Sleep Behaviour Disorder Progression Using PET Imaging.*  
+  *Submitted to Annals of Neurology*, March 2025.
+- **Lopes L**, Warncke JD, Filchenko I, Shi K, Bassetti CLA, Schäfer C.  
+  *Actigraphy meets AI: A Digital Biomarker for the Progression of Isolated REM Sleep Behaviour Disorder to Parkinson’s Disease.*  
+  *Submitted to Sleep*, August 2025.
