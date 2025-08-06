@@ -63,17 +63,6 @@ I was always fascinated by the human brain and how it can inspire better AI, fro
 - Contributed to peer-reviewed publications, grant applications, and ethics protocols, and presented research at international scientific conferences.
 
 
-## Key Skills
-
-•	Led data science/machine learning research projects from beginning through completion
-•	Proficiency in Python, R, Matlab and ML libraries (Pytorch, TensorFlow, Keras, Scikit-learn, etc)
-•	Interdisciplinary background in life sciences, medicine, mathematics, statistics, AI
-•	Experience with Big Data (complex and longitudinal clinical datasets), databases, and cloud computing
-•	Knowledge of ML/DL: pretraining, adapting, fine-tunning, XGBoost, CNNs, ResNets, AE, GANs, Transformers.
-•	Implementation of new ML models in clinical research – CycleGANs, Transformers, foundation models
-•	Visualization techniques: Matplotlib, Seaborn, Plotly, ggplot
-
-
 ## Publications
 
 ### Peer-Reviewed Articles
