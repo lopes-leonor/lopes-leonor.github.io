@@ -31,28 +31,28 @@ I was always fascinated by the human brain and how it can inspire better AI, fro
 
 ## Research & Projects
 
-### AI for Disease Progression in Parkinsonian Disorders
+#### AI for Disease Progression in Parkinsonian Disorders
 - Developed and validated AI and statistical models to predict disease progression using PET and SPECT neuroimaging.
 - Built longitudinal prediction models for REM Sleep Behavior Disorder (RBD) conversion to Parkinson’s Disease using regression, linear mixed-effects models, and deep learning architectures (ResNet, Autoencoders, Vision Transformers).
 - Conducted survival analysis combining clinical and imaging data.
 - Participated in spatiotemporal progression modelling in atypical parkinsonism and ALS.
 
-### Medical Imaging Harmonization with Generative Models
+#### Medical Imaging Harmonization with Generative Models
 - Applied domain adaptation and generative models (CycleGAN, diffusion models) to harmonize imaging data across sites and modalities, collaborating with Siemens Healthineers to implement AI-driven solutions in clinical settings.
 
-### AI for Wearable Sensor Data
+#### AI for Wearable Sensor Data
 - Analyzed actigraphy (wearable) time-series data to support early diagnosis and prognosis in neurodegeneration.
 - Applied machine learning and deep learning methods (Random Forest, CNNs, Transformers, foundation models) for disease classification and progression tracking.
 - Evaluated the utility of foundation models trained on actigraphy for detecting RBD and PD.
 
-### Neuroimaging Tool Development
+#### Neuroimaging Tool Development
 - Created **SSM-PCA**, an open-source Python toolkit for multivariate analysis of FDG PET scans, advancing feature extraction techniques in neuroimaging.
 
-### Data Integration & Analysis
+#### Data Integration & Analysis
 - Extracted, curated, and processed longitudinal datasets comprising over 1,000 PET/SPECT scans, wearable time-series records, and structured clinical data from Parkinsonian cohorts.
 - Led multi-modality statistical analyses, including exploration of biomarker associations, disease trajectory modelling, digital twin generation, and model interpretability.
 
-### Interdisciplinary & Industry Collaborations
+#### Interdisciplinary & Industry Collaborations
 - Coordinated collaborations across clinical, data science, and engineering teams.
 - Worked with industrial partners including **Siemens Healthineers**, **Novartis**, and **Veracyte**
 
