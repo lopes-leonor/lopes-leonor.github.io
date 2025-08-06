@@ -4,7 +4,9 @@ layout: homepage
 
 ## About Me
 
-I am a Ph.D. student at ...
+I am a Postdoctoral researcher at the University of Bern where I work on Deep Learning models applied to healthcare, using neuroimaging and actigraphy (movement data).
+
+I hold a Medical Degree and have completed several courses of the Master’s Degree in Biomedical Engineering. I earned a PhD focused on AI for medical imaging in June 2025.
 
 ## Research Interests
 
