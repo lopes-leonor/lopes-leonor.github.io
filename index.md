@@ -40,10 +40,10 @@ I was always fascinated by the human brain and how it can inspire better AI, fro
 ## Research & Projects
 
 #### AI for Disease Progression in Parkinson's Disease
-- Developed and validated AI and statistical models to predict disease progression using PET and SPECT neuroimaging.
+- Developed and validated AI and statistical models to predict disease progression using **PET and SPECT neuroimaging**.
 - Built longitudinal prediction models for REM Sleep Behavior Disorder conversion to Parkinson’s Disease using regression, linear mixed-effects models, and **deep learning architectures (ResNet, Autoencoders, Vision Transformers)**.
-- Conducted survival analysis combining clinical and imaging data.
-- Participated in spatiotemporal progression modelling in atypical parkinsonism and ALS.
+- Conducted **survival analysis** combining clinical and imaging data.
+- Participated in **spatiotemporal progression modelling** in atypical parkinsonism and ALS.
 - Created **SSM-PCA**, an open-source Python toolkit for multivariate analysis of FDG PET scans
 
 
@@ -67,7 +67,7 @@ I was always fascinated by the human brain and how it can inspire better AI, fro
 
 ## Teaching & Communication
 
-- Delivered lectures and tutorials on Large Language Models and Clinical Decision Support Systems to Bachelor’s, Master’s, and PhD students at the University of Bern and Technical University of Munich.
+- Delivered lectures and tutorials on **Clinical Decision Support Systems** and **Large Language Models** to Bachelor’s, Master’s, and PhD students at the **University of Bern** and **Technical University of Munich**.
 - Contributed to peer-reviewed publications, grant applications, and ethics protocols, and presented research at international scientific conferences.
 
 
