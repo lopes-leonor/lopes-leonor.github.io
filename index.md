@@ -12,6 +12,8 @@ I was always fascinated by the human brain and how it can inspire better AI, fro
 
 ## Education
 
+-------
+
 **PhD in AI in Medical Imaging**  
 *University of Bern, Switzerland*  
 **Oct 2021 – June 2025**  
@@ -42,26 +44,28 @@ I was always fascinated by the human brain and how it can inspire better AI, fro
 - Built longitudinal prediction models for REM Sleep Behavior Disorder conversion to Parkinson’s Disease using regression, linear mixed-effects models, and **deep learning architectures (ResNet, Autoencoders, Vision Transformers)**.
 - Conducted survival analysis combining clinical and imaging data.
 - Participated in spatiotemporal progression modelling in atypical parkinsonism and ALS.
-- Created **SSM-PCA**, an open-source Python toolkit for multivariate analysis of FDG PET scans, advancing feature extraction techniques in neuroimaging.
+- Created **SSM-PCA**, an open-source Python toolkit for multivariate analysis of FDG PET scans
+
 
 #### Medical Imaging Harmonization with Generative Models
-- Applied domain adaptation and **generative models (CycleGAN, diffusion models) to harmonize imaging data** across sites and modalities, collaborating with **Siemens Healthineers** to implement AI-driven solutions in clinical settings.
+- Applied domain adaptation and **generative models (CycleGAN, diffusion models) to harmonize imaging data** across modalities
+- Collaborated with **Siemens Healthineers** to implement AI-driven solutions in clinical settings.
 
-#### AI for Wearable Sensor Data
-- Analyzed actigraphy (wearable) time-series data to support early diagnosis and prognosis in neurodegeneration.
+#### AI for Actigraphy Data
+- Analyzed **actigraphy (wearable) time-series** data to support early diagnosis and prognosis in neurodegeneration.
 - Applied machine learning and deep learning methods **(Random Forest, XGBoost, CNNs, Transformers)** for disease classification and progression tracking.
-- Evaluated the utility of **foundation models** trained on actigraphy for detecting RBD and PD.
+- Evaluated the utility of **foundation models** trained on actigraphy for detecting PD and its subtypes.
 
 #### Data Integration & Analysis
-- Extracted, curated, and processed longitudinal datasets comprising over 1,000 PET/SPECT scans, wearable time-series records, and structured clinical data from Parkinsonian cohorts.
-- Led multi-modality statistical analyses, including exploration of biomarker associations, disease trajectory modelling, digital twin generation, and model interpretability.
-
+- Extracted, curated, and processed longitudinal datasets comprising over 1,000 PET/SPECT scans, wearable time-series records, transcriptomic data and structured clinical data
+- Led multi-modality statistical analyses, including exploration of biomarker associations, disease progression modelling, survival analysis and DL model interpretability in both neurodegenerative disorders and cancer.
+  
 #### Interdisciplinary & Industry Collaborations
 - Coordinated collaborations across clinical, data science, and engineering teams.
 - Worked with industrial partners including **Siemens Healthineers**, **Novartis**, and **Veracyte**
 
 
-## Teaching and Communication
+## Teaching & Communication
 
 - Delivered lectures and tutorials on Large Language Models and Clinical Decision Support Systems to Bachelor’s, Master’s, and PhD students at the University of Bern and Technical University of Munich.
 - Contributed to peer-reviewed publications, grant applications, and ethics protocols, and presented research at international scientific conferences.
