@@ -75,16 +75,135 @@ I was always fascinated by the human brain and how it can inspire better AI, fro
 
 ### Peer-Reviewed Articles
 
-
-<table>
+<!-- PUBLICATION 1 -->
+<table style="margin-bottom: 30px;">
   <tr>
     <td style="width: 150px; vertical-align: top;">
-      <img src="assets/img/evolution_ai_nukmed_v2.png" alt="AI in Nuclear Medicine" width="120">
+      <img src="assets/img/evolution_ai.png" alt="AI in Nuclear Medicine" width="120">
     </td>
-    <td>
-      <a href="https://doi.org/10.1053/j.semnuclmed.2025.01.006" style="color: #1a0dab;><strong>The Evolution of Artificial Intelligence in Nuclear Medicine </strong></a><br>
+    <td style="padding-left: 15px;">
+      <a href="https://doi.org/10.1053/j.semnuclmed.2025.01.006" style="color: #1a0dab; font-weight: bold;">The Evolution of Artificial Intelligence in Nuclear Medicine</a><br>
       <strong>Lopes L</strong>, Lopez-Montes A, Chen Y, et al.<br>
-      <em>Seminars in Nuclear Medicine</em>, 2025;55(3):313–327.
+      <em>Seminars in Nuclear Medicine</em>, 2025; 55(3):313–327.
+    </td>
+  </tr>
+</table>
+
+<!-- PUBLICATION 2 -->
+<table style="margin-bottom: 30px;">
+  <tr>
+    <td style="width: 150px; vertical-align: top;">
+      <img src="assets/img/cyclegan_pet_spect.png" alt="CycleGAN PET to SPECT" width="120">
+    </td>
+    <td style="padding-left: 15px;">
+      <a href="https://doi.org/10.1007/s00259-024-06961-x" style="color: #1a0dab; font-weight: bold;">Dopaminergic PET to SPECT domain adaptation: a cycle GAN translation approach</a><br>
+      <strong>Lopes L</strong>, Jiao F, Xue S, et al.<br>
+      <em>European Journal of Nuclear Medicine and Molecular Imaging</em>, 2025; 52(3):851–863.
+    </td>
+  </tr>
+</table>
+
+<!-- PUBLICATION 3 -->
+<table style="margin-bottom: 30px;">
+  <tr>
+    <td style="width: 150px; vertical-align: top;">
+      <img src="assets/img/psma_fdg_lupt.png" alt="PSMA/FDG PET in LuPSMA" width="120">
+    </td>
+    <td style="padding-left: 15px;">
+      <a href="https://doi.org/10.1007/s00259-025-07198-y" style="color: #1a0dab; font-weight: bold;">Prognostic value of [18F]FDG- and PSMA-PET in patients evaluated for [177Lu]Lu-PSMA therapy of mCRPC</a><br>
+      <strong>Telli T</strong>, <strong>Lopes L</strong>, Karpinski M, et al.<br>
+      <em>European Journal of Nuclear Medicine and Molecular Imaging</em>, online 2025.
+    </td>
+  </tr>
+</table>
+
+<!-- PUBLICATION 4 -->
+<table style="margin-bottom: 30px;">
+  <tr>
+    <td style="width: 150px; vertical-align: top;">
+      <img src="assets/img/psc_classifier.png" alt="Florzolotau PSP Classifier" width="120">
+    </td>
+    <td style="padding-left: 15px;">
+      <a href="https://doi.org/10.1016/j.isci.2023.107426" style="color: #1a0dab; font-weight: bold;">Improved interpretation of 18F-florzolotau PET in progressive supranuclear palsy using a normalization-free deep-learning classifier</a><br>
+      <strong>Lu J</strong>, Clement C, Hong J, Wang M, Li X, et al.<br>
+      <em>iScience</em>, 2023; 26(8).
+    </td>
+  </tr>
+</table>
+
+<!-- PUBLICATION 5 -->
+<table style="margin-bottom: 30px;">
+  <tr>
+    <td style="width: 150px; vertical-align: top;">
+      <img src="assets/img/tau_progression_psp.png" alt="Tau Progression in PSP" width="120">
+    </td>
+    <td style="padding-left: 15px;">
+      <a href="https://doi.org/10.1016/j.ebiom.2023.104835" style="color: #1a0dab; font-weight: bold;">Uncovering distinct progression patterns of tau deposition in progressive supranuclear palsy using [18F]Florzolotau PET imaging and subtype/stage inference algorithm</a><br>
+      <strong>Hong J</strong>, Lu J, Liu F, Wang M, Li X, et al.<br>
+      <em>EBioMedicine</em>, 2023; 97.
+    </td>
+  </tr>
+</table>
+
+<!-- PUBLICATION 6 -->
+<table style="margin-bottom: 30px;">
+  <tr>
+    <td style="width: 150px; vertical-align: top;">
+      <img src="assets/img/psma_followup.png" alt="PSMA PET Follow-up" width="120">
+    </td>
+    <td style="padding-left: 15px;">
+      <a href="https://doi.org/10.7150/thno.96738" style="color: #1a0dab; font-weight: bold;">PSMA-PET follow-up to assess response in patients not receiving PSMA therapy: Is there value beyond localization of disease?</a><br>
+      <strong>Küper AT</strong>, Kersting D, Telli T, Herrmann K, Rominger A, et al.<br>
+      <em>Theranostics</em>, 2024; 14(9):3623–3633.
+    </td>
+  </tr>
+</table>
+
+---
+
+### **Accepted for Publication**
+
+<table style="margin-bottom: 30px;">
+  <tr>
+    <td style="width: 150px; vertical-align: top;">
+      <img src="assets/img/immune_mcrpc.png" alt="Immune mCRPC" width="120">
+    </td>
+    <td style="padding-left: 15px;">
+      <strong>Transcriptomic Profiling of the Tumor Immune Microenvironment Reveals Prognostic Markers in mCRPC Patients Treated with LuPSMA Therapy</strong><br>
+      <strong>Handke A</strong>, <strong>Lopes L</strong>, Kesch C, et al.<br>
+      <em>Accepted in Theranostics</em>, July 2025.
+    </td>
+  </tr>
+</table>
+
+---
+
+### **In Preparation / Submitted**
+
+<!-- Submission 1 -->
+<table style="margin-bottom: 30px;">
+  <tr>
+    <td style="width: 150px; vertical-align: top;">
+      <img src="assets/img/pet_rbd_progression.png" alt="PET RBD Progression" width="120">
+    </td>
+    <td style="padding-left: 15px;">
+      <strong>Deep Learning-Based Prediction of Isolated REM Sleep Behaviour Disorder Progression Using PET Imaging</strong><br>
+      <strong>Lopes L</strong>, Xu Q, Lu J, et al.<br>
+      <em>Submitted to Annals of Neurology</em>, March 2025.
+    </td>
+  </tr>
+</table>
+
+<!-- Submission 2 -->
+<table style="margin-bottom: 30px;">
+  <tr>
+    <td style="width: 150px; vertical-align: top;">
+      <img src="assets/img/actigraphy_rbd_pd.png" alt="Actigraphy RBD to PD" width="120">
+    </td>
+    <td style="padding-left: 15px;">
+      <strong>Actigraphy meets AI: A Digital Biomarker for the Progression of Isolated REM Sleep Behaviour Disorder to Parkinson’s Disease</strong><br>
+      <strong>Lopes L</strong>, Warncke JD, Filchenko I, Shi K, Bassetti CLA, Schäfer C.<br>
+      <em>Submitted to Sleep</em>, August 2025.
     </td>
   </tr>
 </table>
