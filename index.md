@@ -82,7 +82,7 @@ I was always fascinated by the human brain and how it can inspire better AI, fro
       <img src="assets/img/evolution_ai_nukmed_v2.png" alt="AI in Nuclear Medicine" width="120">
     </td>
     <td>
-      <a href="https://doi.org/10.1053/j.semnuclmed.2025.01.006"><strong>The Evolution of Artificial Intelligence in Nuclear Medicine</strong></a><br>
+      <a href="https://doi.org/10.1053/j.semnuclmed.2025.01.006" style="color: #1a0dab;"><strong>The Evolution of Artificial Intelligence in Nuclear Medicine</strong></a><br>
       <strong>Lopes L</strong>, Lopez-Montes A, Chen Y, et al.<br>
       <em>Seminars in Nuclear Medicine</em>, 2025;55(3):313–327.
     </td>
