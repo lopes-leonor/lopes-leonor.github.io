@@ -166,7 +166,7 @@ I was always fascinated by the human brain and how it can inspire better AI, fro
 <table style="margin-bottom: 30px;">
   <tr>
     <td style="width: 150px; vertical-align: top;">
-      <img src="assets/img/comming_soon.png" alt="Immune mCRPC" width="120">
+      <img src="assets/img/coming_soon.png" alt="Immune mCRPC" width="120">
     </td>
     <td style="padding-left: 15px;">
       <strong>Transcriptomic Profiling of the Tumor Immune Microenvironment Reveals Prognostic Markers in mCRPC Patients Treated with LuPSMA Therapy</strong><br>
@@ -184,7 +184,7 @@ I was always fascinated by the human brain and how it can inspire better AI, fro
 <table style="margin-bottom: 30px;">
   <tr>
     <td style="width: 150px; vertical-align: top;">
-      <img src="assets/img/comming_soon.png" alt="PET RBD Progression" width="120">
+      <img src="assets/img/coming_soon.png" alt="PET RBD Progression" width="120">
     </td>
     <td style="padding-left: 15px;">
       <strong>Deep Learning-Based Prediction of Isolated REM Sleep Behaviour Disorder Progression Using PET Imaging</strong><br>
@@ -198,7 +198,7 @@ I was always fascinated by the human brain and how it can inspire better AI, fro
 <table style="margin-bottom: 30px;">
   <tr>
     <td style="width: 150px; vertical-align: top;">
-      <img src="assets/img/comming_soon.png" alt="Actigraphy RBD to PD" width="120">
+      <img src="assets/img/coming_soon.png" alt="Actigraphy RBD to PD" width="120">
     </td>
     <td style="padding-left: 15px;">
       <strong>Actigraphy meets AI: A Digital Biomarker for the Progression of Isolated REM Sleep Behaviour Disorder to Parkinson’s Disease</strong><br>
