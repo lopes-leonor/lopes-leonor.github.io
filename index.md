@@ -93,7 +93,7 @@ I was always fascinated by the human brain and how it can inspire better AI, fro
 <table style="margin-bottom: 30px;">
   <tr>
     <td style="width: 150px; vertical-align: top;">
-      <img src="assets/img/cyclegan_pet_spect.png" alt="CycleGAN PET to SPECT" width="120">
+      <img src="assets/img/cycle_gan.png" alt="CycleGAN PET to SPECT" width="120">
     </td>
     <td style="padding-left: 15px;">
       <a href="https://doi.org/10.1007/s00259-024-06961-x" style="color: #1a0dab; font-weight: bold;">Dopaminergic PET to SPECT domain adaptation: a cycle GAN translation approach</a><br>
@@ -107,7 +107,7 @@ I was always fascinated by the human brain and how it can inspire better AI, fro
 <table style="margin-bottom: 30px;">
   <tr>
     <td style="width: 150px; vertical-align: top;">
-      <img src="assets/img/psma_fdg_lupt.png" alt="PSMA/FDG PET in LuPSMA" width="120">
+      <img src="assets/img/fdg_psma.png" alt="PSMA/FDG PET in LuPSMA" width="120">
     </td>
     <td style="padding-left: 15px;">
       <a href="https://doi.org/10.1007/s00259-025-07198-y" style="color: #1a0dab; font-weight: bold;">Prognostic value of [18F]FDG- and PSMA-PET in patients evaluated for [177Lu]Lu-PSMA therapy of mCRPC</a><br>
@@ -121,7 +121,7 @@ I was always fascinated by the human brain and how it can inspire better AI, fro
 <table style="margin-bottom: 30px;">
   <tr>
     <td style="width: 150px; vertical-align: top;">
-      <img src="assets/img/psc_classifier.png" alt="Florzolotau PSP Classifier" width="120">
+      <img src="assets/img/psp_dl.jpg" alt="Florzolotau PSP Classifier" width="120">
     </td>
     <td style="padding-left: 15px;">
       <a href="https://doi.org/10.1016/j.isci.2023.107426" style="color: #1a0dab; font-weight: bold;">Improved interpretation of 18F-florzolotau PET in progressive supranuclear palsy using a normalization-free deep-learning classifier</a><br>
@@ -135,7 +135,7 @@ I was always fascinated by the human brain and how it can inspire better AI, fro
 <table style="margin-bottom: 30px;">
   <tr>
     <td style="width: 150px; vertical-align: top;">
-      <img src="assets/img/tau_progression_psp.png" alt="Tau Progression in PSP" width="120">
+      <img src="assets/img/sustain.jpg" alt="Tau Progression in PSP" width="120">
     </td>
     <td style="padding-left: 15px;">
       <a href="https://doi.org/10.1016/j.ebiom.2023.104835" style="color: #1a0dab; font-weight: bold;">Uncovering distinct progression patterns of tau deposition in progressive supranuclear palsy using [18F]Florzolotau PET imaging and subtype/stage inference algorithm</a><br>
@@ -149,7 +149,7 @@ I was always fascinated by the human brain and how it can inspire better AI, fro
 <table style="margin-bottom: 30px;">
   <tr>
     <td style="width: 150px; vertical-align: top;">
-      <img src="assets/img/psma_followup.png" alt="PSMA PET Follow-up" width="120">
+      <img src="assets/img/psma_progression.jpeg" alt="PSMA PET Follow-up" width="120">
     </td>
     <td style="padding-left: 15px;">
       <a href="https://doi.org/10.7150/thno.96738" style="color: #1a0dab; font-weight: bold;">PSMA-PET follow-up to assess response in patients not receiving PSMA therapy: Is there value beyond localization of disease?</a><br>
@@ -166,7 +166,7 @@ I was always fascinated by the human brain and how it can inspire better AI, fro
 <table style="margin-bottom: 30px;">
   <tr>
     <td style="width: 150px; vertical-align: top;">
-      <img src="assets/img/immune_mcrpc.png" alt="Immune mCRPC" width="120">
+      <img src="assets/img/comming_soon.png" alt="Immune mCRPC" width="120">
     </td>
     <td style="padding-left: 15px;">
       <strong>Transcriptomic Profiling of the Tumor Immune Microenvironment Reveals Prognostic Markers in mCRPC Patients Treated with LuPSMA Therapy</strong><br>
@@ -184,7 +184,7 @@ I was always fascinated by the human brain and how it can inspire better AI, fro
 <table style="margin-bottom: 30px;">
   <tr>
     <td style="width: 150px; vertical-align: top;">
-      <img src="assets/img/pet_rbd_progression.png" alt="PET RBD Progression" width="120">
+      <img src="assets/img/comming_soon.png" alt="PET RBD Progression" width="120">
     </td>
     <td style="padding-left: 15px;">
       <strong>Deep Learning-Based Prediction of Isolated REM Sleep Behaviour Disorder Progression Using PET Imaging</strong><br>
@@ -198,7 +198,7 @@ I was always fascinated by the human brain and how it can inspire better AI, fro
 <table style="margin-bottom: 30px;">
   <tr>
     <td style="width: 150px; vertical-align: top;">
-      <img src="assets/img/actigraphy_rbd_pd.png" alt="Actigraphy RBD to PD" width="120">
+      <img src="assets/img/comming_soon.png" alt="Actigraphy RBD to PD" width="120">
     </td>
     <td style="padding-left: 15px;">
       <strong>Actigraphy meets AI: A Digital Biomarker for the Progression of Isolated REM Sleep Behaviour Disorder to Parkinson’s Disease</strong><br>
