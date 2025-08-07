@@ -79,7 +79,7 @@ I was always fascinated by the human brain and how it can inspire better AI, fro
 <table>
   <tr>
     <td style="width: 150px; vertical-align: top;">
-      <img src="assets/imgs/evolution_ai_nukmed_v2.png" alt="AI in Nuclear Medicine" width="120">
+      <img src="assets/img/evolution_ai_nukmed_v2.png" alt="AI in Nuclear Medicine" width="120">
     </td>
     <td>
       <a href="https://doi.org/10.1053/j.semnuclmed.2025.01.006"><strong>The Evolution of Artificial Intelligence in Nuclear Medicine</strong></a><br>
