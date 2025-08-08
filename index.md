@@ -17,7 +17,7 @@ I was always fascinated by the human brain and how it can inspire better AI, fro
 **PhD in AI in Medical Imaging**  
 *University of Bern, Switzerland*  
 **Oct 2021 – June 2025**  
-- Research focus: AI-based diagnosis and progression modelling of neurodegenerative disorders
+- Thesis: [Artificial Intelligence in Neurodegenerative Diseases: Advancing Diagnosis and Prognosis](assets/files/thesis_redact.pdf)
 - Awarded with highest grade; Nominated for Best PhD Thesis Award
   
 -------
