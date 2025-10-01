@@ -209,3 +209,37 @@ I was always fascinated by the human brain and how it can inspire better AI, fro
 </table>
 
 
+# Conferences
+
+- **60th Annual Meeting of the German Society of Nuclear Medicine 2022**  
+  April 2022 ● Leipzig, Germany  
+
+- **2022 International Congress of Parkinson’s Disease and Movement Disorders**  
+  September 2022 ● Madrid, Spain  
+
+- **35th Annual Congress of the European Association of Nuclear Medicine 2022**  
+  October 2022 ● Barcelona, Spain  
+
+- **61st Annual Meeting of the German Society of Nuclear Medicine 2023**  
+  April 2023 ● Leipzig, Germany  
+
+- **9th Congress of the European Academy of Neurology**  
+  July 2023 ● Budapest, Hungary  
+
+- **Annual Meeting of the Swiss Society for Sleep Research, Sleep Medicine and Chronobiology**  
+  August 2023 ● Geneva, Switzerland  
+
+- **36th Annual Congress of the European Association of Nuclear Medicine 2023**  
+  September 2023 ● Vienna, Austria
+
+- **Sleep Europe 2024 – 27th Congress of the European Sleep Research Society**  
+  September 2024 ● Seville, Spain
+
+- **37th Annual Congress of the European Association of Nuclear Medicine 2024**  
+  October 2024 ● Hamburg, Germany
+
+- **PSMR2024 - 10th Conference on PET, SPECT, and MR Multimodal Technologies, Total Body and Fast Timing in Medical Imaging**  
+  May 2024 ● Isola d'Elba, Italy
+
+- **Annual Meeting of the Swiss Society for Sleep Research, Sleep Medicine and Chronobiology**  
+  August 2024 ● Bern, Switzerland 
