@@ -4,11 +4,11 @@ layout: homepage
 
 ## Profile
 
-I am a Postdoctoral Researcher at the University of Bern, working on Deep Learning models applied to healthcare. I focus on applying these methods to neuroimaging and actigraphy (movement data) for disease diagnosis, prediction, and progression modelling.
+I am a Data Scientist and Researcher working at the intersection of artificial intelligence, healthcare, and clinical research. In my current role, I work with electronic health records and other real-world healthcare data to support health research, innovation, and improvements in patient safety.
 
-Due to my interdisciplinary background in medicine and biomedical engineering, I bring extensive scientific and clinical knowledge, as well as strong analytical and technical skills. I also have teaching experience and have led projects and collaborations with industry partners.
+Due to my interdisciplinary background in medicine and biomedical engineering, I bring extensive scientific and clinical knowledge, as well as strong analytical and technical skills. Over the years, I have worked with a range of healthcare data sources, including neuroimaging, actigraphy, and large-scale electronic health records, applying machine learning methods to disease diagnosis, prediction, and progression modelling. I also have experience teaching and leading multidisciplinary projects and collaborations with academic and industry partners.
 
-I was always fascinated by the human brain and how it can inspire better AI, from understanding neural processes to building models that mimic them. My goal is to contribute to AI systems that not only improve medical decision-making but are also transparent, trustworthy, and grounded in both science and real-world impact.
+I have always been fascinated by the human brain and how it can inspire better AI, from understanding neural processes to building models that mimic them. My goal is to contribute to AI systems that not only improve medical decision-making but are also transparent, trustworthy, and grounded in both science and real-world impact.
 
 ## Education
 
